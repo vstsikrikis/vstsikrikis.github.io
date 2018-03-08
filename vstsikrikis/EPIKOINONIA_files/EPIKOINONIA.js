@@ -1,4 +1,4 @@
-// Created by iWeb 3.0.4 local-build-20161101
+// Created by iWeb 3.0.4 local-build-20180308
 
 setTransparentGifURL('Media/transparent.gif');function applyEffects()
 {var registry=IWCreateEffectRegistry();registry.registerEffects({stroke_0:new IWStrokeParts([{rect:new IWRect(-2,-1,1,143),url:'EPIKOINONIA_files/stroke.png'},{rect:new IWRect(-2,-2,1,1),url:'EPIKOINONIA_files/stroke_1.png'},{rect:new IWRect(-1,-2,111,1),url:'EPIKOINONIA_files/stroke_2.png'},{rect:new IWRect(110,-2,1,1),url:'EPIKOINONIA_files/stroke_3.png'},{rect:new IWRect(110,-1,1,143),url:'EPIKOINONIA_files/stroke_4.png'},{rect:new IWRect(110,142,1,1),url:'EPIKOINONIA_files/stroke_5.png'},{rect:new IWRect(-1,142,111,1),url:'EPIKOINONIA_files/stroke_6.png'},{rect:new IWRect(-2,142,1,1),url:'EPIKOINONIA_files/stroke_7.png'}],new IWSize(109,140)),shadow_0:new IWShadow({blurRadius:15,offset:new IWPoint(4.9497,4.9497),color:'#000000',opacity:0.500000})});registry.applyEffects();}
